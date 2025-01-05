@@ -8,10 +8,7 @@ const cookieParser = require('cookie-parser')
 const app = express();
 
 app.use(express.json());
-app.use(cors({
-    origin: ['https://task12-password-reset.netlify.app'],
-    credentials: true
-}))
+app.use(cors())
 app.use(cookieParser())
 app.use(logger)
 app.use("/auth", authRouter);
