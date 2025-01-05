@@ -9,6 +9,12 @@ This project is a Node.js-based backend application providing authentication fun
 - **Reset Password:** Update the user's password using the token sent in the email.
 - **Token-Based Authentication:** Secure endpoints with JSON Web Tokens (JWT).
 
+# API
+API: [https://password-reset-byp3.onrender.com](https://password-reset-byp3.onrender.com)
+```bash
+https://password-reset-byp3.onrender.com
+```
+
 ## Technologies Used
 - **Node.js**: Server-side runtime.
 - **Express.js**: Web framework for Node.js.
